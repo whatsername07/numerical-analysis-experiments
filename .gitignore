@@ -1,0 +1,13 @@
+# MATLAB crash and log files
+hs_err_pid*
+matlab_crash_dump*
+
+# Autosave and editor backup files
+*.asv
+*.m~
+*.slx.autosave
+
+# Local workspace and cache directories
+resources/
+slprj/
+*.mex*
